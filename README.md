@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ndbiaw&color=purple)
+![](https://komarev.com/ghpvc/?username=ndbiaw&color=blueviolet)
 ### Github統計
 ![github stats](https://github-readme-stats.vercel.app/api/?username=ndbiaw&show_icons=true&locale=ja&bg_color=100,42275a,734b6d)
 ### 最もよく使っている言語
