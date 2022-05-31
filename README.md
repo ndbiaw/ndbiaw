@@ -2,13 +2,9 @@
 
 You can donate to me at:
 
-[PayPal](https://paypal.me/nayumi2x)
+[![image](https://user-images.githubusercontent.com/59746573/171283514-4ec56d86-8f12-42f0-80d6-8fec2c1ef00d.png)](https://paypal.me/nayumi2x)
 
-[Ko-fi](https://ko-fi.com/nayumi2x)
-
-[Patreon](https://www.patreon.com/nayumi2x)
-
-[BuyMeACoffee](https://www.buymeacoffee.com/nayumi3x)
+[![image](https://user-images.githubusercontent.com/59746573/171283503-cb61e72b-6175-49a2-87f6-f68991a429de.png)](https://ko-fi.com/nayumi2x)
 
 Donations can be attribution (or anonymous). You will also get a special role on Discord.
 
