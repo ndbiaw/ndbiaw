@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ndbiaw&color=00ffff)
+
 You can donate to me at:
 
 [PayPal](https://paypal.me/nayumi2x)
