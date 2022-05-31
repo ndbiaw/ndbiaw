@@ -11,3 +11,6 @@ You can donate to me at:
 Donations can be attribution (or anonymous). You will also get a special role on Discord.
 
 Thanks!~
+
+
+[Discord](https://discord.gg/r2kFmfVGDZ) - [Telegram](https://t.me/joinchat/tOw0PUB_pn5mZjZl) - [Reddit](https://www.reddit.com/r/hvnc)
