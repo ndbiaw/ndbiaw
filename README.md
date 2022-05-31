@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ndbiaw&color=00ffff)
+![](https://komarev.com/ghpvc/?username=ndbiaw&color=000033)
 
 You can donate to me at:
 
